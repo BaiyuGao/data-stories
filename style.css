@@ -1,7 +1,7 @@
 html {
 	font-size :15px;
 	font-family: 'Arial',sans-serif; 
-	background-color:darkblue;
+	background-color:red;
 }
 
 p{
@@ -47,5 +47,5 @@ img{
 }
 
 p.quote#mainquote{
-	
+
 }
