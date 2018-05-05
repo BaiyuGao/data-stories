@@ -1,5 +1,37 @@
+html {
+	font-size :15px;
+	font-family: 'Arial',sans-serif; 
+	background-color:darkblue;
+}
+
 p{
-	color:red;
+	padding-left:10px;
+	color:black;
 	width:500px;
-	border:1px solid black;
+}
+
+h1 {
+	margin:0;
+	font-size: 60px;
+	text-align: center;
+	color:white;
+	text-shadow:2px 2px 1px;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body{
+	background-color:orange;
+	width :600px;
+	margin:0 auto;
+
+}
+
+img{
+	display: block;
+	margin: 0 auto;
 }
